@@ -1,2 +1,2 @@
 # MPA-MLF
-Muzaffer Mert 
+Hi, I am Muzaffer Mert. This repisorty is for machine learning fundamental course. This include course lab execerise and I own exercise. Let's start ...
